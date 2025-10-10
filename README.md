@@ -1,5 +1,5 @@
 # 大規模言語モデル入門
-
+本リポジトリは、Pythonを用いたLLMの学習ノートです。 書籍「大規模言語モデル入門」をもとに、自分なりに整理したコード例やメモをまとめています。
 <a href="https://gihyo.jp/book/2023/978-4-297-13633-8"><img src="misc/cover-small.png" width="200"></a>
 <a href="https://gihyo.jp/book/2024/978-4-297-14393-0"><img src="misc/cover-small2.png" width="200"></a>
 
@@ -8,7 +8,7 @@
 - [「大規模言語モデル入門」正誤表](https://github.com/ghmagazine/llm-book/wiki/errata)
 - [「大規模言語モデル入門Ⅱ〜生成型LLMの実装と評価」正誤表](https://github.com/ghmagazine/llm-book/wiki/errata2)
 
-## リンク
+## 参考書籍
 
 - [Hugging Face Hub](https://huggingface.co/llm-book)
 - [「大規模言語モデル入門」の技術評論社のページ](https://gihyo.jp/book/2023/978-4-297-13633-8)
